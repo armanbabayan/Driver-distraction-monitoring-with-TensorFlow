@@ -19,7 +19,7 @@ The data set has been shortened a little. This dataset has 10 classes with nearl
 
 [![python](https://camo.githubusercontent.com/3cdf9577401a2c7dceac655bbd37fb2f3ee273a457bf1f2169c602fb80ca56f8/68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6d6164652d776974682d707974686f6e2e737667)](https://www.python.org/)  
 
-[![tensorflow](https://www.gstatic.com/devrel-devsite/prod/v03524b055229ae2d7e36c2f7867401f3447503fd5c5c18fd5cdefd483b35c9b4/tensorflow/images/lockup.svg)](https://www.tensorflow.org/)
+[![tensorflow](https://avatars.githubusercontent.com/u/15658638?s=200&v=4)](https://www.tensorflow.org/)
 
 
 ## Authors
